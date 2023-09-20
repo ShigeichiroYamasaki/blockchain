@@ -693,7 +693,6 @@ p0=[2,2]
 ---
 ## JavaScript
 
-JavaScriptには  pack/unpackがありません
 
 ### ユークリッド互除法
 
